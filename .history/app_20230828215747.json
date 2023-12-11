@@ -1,0 +1,8 @@
+{
+  "name": "wageCalculator",
+  "displayName": "wageCalculator",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3599250716372898~4841591771",
+    "ios_app_id": "ca-app-pub-xxxxxxxx~xxxxxxxx"
+  }
+}
